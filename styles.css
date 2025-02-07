@@ -25,17 +25,10 @@ body{
     margin: 60px auto;
     border-radius: 16px;
     padding: 16px;
-    transition: 300ms;
 
 }
 
-.main-container:hover{
-    cursor: pointer;
-    box-shadow: 10px 10px 10px;
-    transition: 300ms;
-    margin-top: 50px;
 
-}
 
 .img-container{
     background-image: url(./images/image-qr-code.png);
@@ -63,12 +56,6 @@ p{
 
 }
 
-.attribution {
-    font-size: 18px;
-    text-align: center;
-  }
-  .attribution a {
-    color: hsl(228, 45%, 44%);
-  }
+
 
   
